@@ -20,3 +20,5 @@ Example: C:\Program Files\Exemple\Exemple.exe=60;
 
 The exemple above define that a hypothetical program "Exemple.exe" must be closed after 60 seconds without any user input of keyboard or mouse.
 The user does not need to worry with this file beacause it will be filled automatically when uses the CLI and register a program.
+
+The file must be in the same directory as the monitor program executable.
